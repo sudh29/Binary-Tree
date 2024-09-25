@@ -1,5 +1,6 @@
 
 
+
 # Binary-Tree
 
 In a tree structure, Depth First Search (DFS) and Breadth First Search (BFS) algorithms are used to traverse the nodes. Here's how they work:
