@@ -1,3 +1,5 @@
+
+
 # Binary-Tree
 
 In a tree structure, Depth First Search (DFS) and Breadth First Search (BFS) algorithms are used to traverse the nodes. Here's how they work:
@@ -80,3 +82,4 @@ dfs_postorder(root) # Output: 4 5 2 3 1
 print("\nBFS:")
 bfs(root)  # Output: 1 2 3 4 5
 ```
+
